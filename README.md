@@ -7,3 +7,7 @@ into MDBG's CEDICT is at the discretion of MDBG, as many modifications made here
 does not conform to the standard CEDICT format. Some entries are custom additions that wouldn't make sense in a general-purpose
 dictionary.
 
+
+![Createive Commons Badge](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+
+https://creativecommons.org/licenses/by-sa/4.0/
