@@ -1,0 +1,2 @@
+# cidian
+Mandarin Chinese dictionary
